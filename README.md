@@ -1,4 +1,3 @@
-<!-- ![logo](https://github.com/shameemkpofficial-git/shameemkpofficial/blob/main/Skin%20Care%20Instagram%20Rating%20Post%20Content.png) -->
 <h1 align="center">Hi 👋, I'm Shameem</h1>
 <h3 align="center">A professional software developer from India</h3>
 <img align = "right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"></>
